@@ -1,3 +1,4 @@
 {
-  "Store":"Store/installer.php"
+  "Store":"Store/installer.php",
+  "SlitherIO":"SlitherIO/installer.php"
 }
