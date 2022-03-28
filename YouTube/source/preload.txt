@@ -1,0 +1,1 @@
+{"preIcon":"https://cdn.jsdelivr.net/gh/chillsocial/ChillApps@main/YouTube/icon.jpg","preBanner":"https://cdn.jsdelivr.net/gh/chillsocial/ChillApps@main/YouTube/banner.jpg","preAltTxt":"YouTube","startFile":"index.php","preMusicTrack":"https://vgmsite.com/soundtracks/wii-misc-channels-themes/dywdtmohmt/09%20YouTube%20Channel%20Banner.mp3","preMusicType":"mp3"}
