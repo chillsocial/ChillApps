@@ -1,5 +1,6 @@
 {
   "Store":"Store/installer.php",
   "SlitherIO":"SlitherIO/installer.php",
-  "BBCiPlayer":"BBCiPlayer/installer.php"
+  "BBCiPlayer":"BBCiPlayer/installer.php",
+  "ChillTV":"ChillTV/installer.php"
 }
