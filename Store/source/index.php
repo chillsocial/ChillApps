@@ -30,5 +30,5 @@ a:active {
     <source src="https://vgmsite.com/soundtracks/wii-shop-channel-wii/hqewrabe/02_Shop%20Channel.mp3" type="audio/mp3">
 </audio>
 <h2><a href="http://localhost">Return to Chill Menu</a></h2>
-<iframe src="http://localhost/apps/store/menu.php" style="border:0px #ffffff none;" name="store" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="90%" width="100%" allowfullscreen></iframe>
+<iframe src="http://localhost/apps/Store/menu.php" style="border:0px #ffffff none;" name="store" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="90%" width="100%" allowfullscreen></iframe>
 </center>
