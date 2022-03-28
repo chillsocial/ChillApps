@@ -4,5 +4,6 @@
   "BBCiPlayer":"BBCiPlayer/installer.php",
   "ChillTV":"ChillTV/installer.php",
   "Browser":"Browser/installer.php",
-  "Roblox":"Roblox/installer.php"
+  "Roblox":"Roblox/installer.php",
+  "YouTube":"YouTube/installer.php"
 }
