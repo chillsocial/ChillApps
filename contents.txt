@@ -1,4 +1,5 @@
 {
   "Store":"Store/installer.php",
-  "SlitherIO":"SlitherIO/installer.php"
+  "SlitherIO":"SlitherIO/installer.php",
+  "BBCiPlayer":"BBCiPlayer/installer.php"
 }
