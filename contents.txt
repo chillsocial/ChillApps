@@ -1,3 +1,3 @@
 {
-  "Store":"Store/appPack.zip"
+  "Store":"Store/index.php"
 }
