@@ -1,0 +1,1 @@
+{"preIcon":"https://cdn.jsdelivr.net/gh/chillsocial/ChillApps@main/ChillTV/icon.png","preBanner":"https://cdn.jsdelivr.net/gh/chillsocial/ChillApps@main/ChillTV/banner.jpg","preAltTxt":"Chill TV","startFile":"index.php","preMusicTrack":"https://vgmsite.com/soundtracks/skylanders-4-trap-team-gamerip/ixjprybn/327%20Chill%20Bill.mp3","preMusicType":"mp3"}
