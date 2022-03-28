@@ -1,0 +1,1 @@
+{"preIcon":"https://cdn.jsdelivr.net/gh/chillsocial/ChillApps@main/SlitherIO/Slither.png","preBanner":"https://cdn.jsdelivr.net/gh/chillsocial/ChillApps@main/SlitherIO/snek.png","preAltTxt":"Slither.io","startFile":"index.php","preMusicTrack":"https://quicksounds.com/uploads/tracks/243086113_958151122_1400195493.mp3","preMusicType":"mp3"}
