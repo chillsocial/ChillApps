@@ -1,0 +1,1 @@
+{"preIcon":"https://cdn.jsdelivr.net/gh/chillsocial/ChillApps@main/Roblox/icon.png","preBanner":"https://cdn.jsdelivr.net/gh/chillsocial/ChillApps@main/Roblox/banner.jpg","preAltTxt":"Roblox","startFile":"index.php","preMusicTrack":"https://cdn.jsdelivr.net/gh/chillsocial/ChillApps@main/Roblox/audio.mp3","preMusicType":"mp3"}
