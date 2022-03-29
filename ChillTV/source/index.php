@@ -45,6 +45,7 @@ if(isset($_COOKIE['cdn'])){
 <h1>Chill TV</h1>
 <br>
 <?php
+error_reporting(0);
 $contents = file_get_contents("https://axoltlapi.herokuapp.com/");
 $json = json_decode($contents);
 echo '<img src="'.$json->url.'" alt="Axolotl Image" width="300" height="300"> <h2>'.$json->facts.'</h2>';
