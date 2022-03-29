@@ -31,6 +31,8 @@ You will need a Github repo. In the main folder of the repo (not your app folder
 }
 ```
 Then, make a folder called `Testing`. Inside that folder, make another folder called `source`. Your `preload.txt`, startup file and all other app files should be in that folder. Outside that folder, make a `installer.php` file. Assuming you only have the startup and preload file, this is your `installer.php`...
+
+Make sure you replace `chillsocial/ChillApps` in `$chillRepo` with your repo!!
 ```
 <?php
 if (!file_exists('../Testing')) {
@@ -48,6 +50,8 @@ if (!file_exists('../Testing')) {
 ?>
 ```
 Now, let's say you want to have more than one file. You'd just add a new `file_put_contents` line like this...
+
+Make sure you replace `chillsocial/ChillApps` in `$chillRepo` with your repo!!
 ```
 <?php
 if (!file_exists('../Testing')) {
