@@ -1,0 +1,1 @@
+{"preIcon":"https://cdn.jsdelivr.net/gh/chillsocial/ChillApps@main/copyx86/icon.jpg","preBanner":"https://cdn.jsdelivr.net/gh/chillsocial/ChillApps@main/copyx86/banner.jpg","preAltTxt":"copyx86","startFile":"index.php","preMusicTrack":"https://ia800903.us.archive.org/0/items/tvtunes_23558/Regular%20Show%20-%20Credits.mp3","preMusicType":"mp3"}
