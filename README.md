@@ -24,6 +24,7 @@ Here's the `preload.txt` for the Roblox channel...
 
 ## Deploying Your App
 ### Through The Chill Store (Public)
+#### Classic
 You will need a Github repo. In the main folder of the repo (not your app folder!), you need to make a `contents.txt` file. Lets assume you're making an app called `Testing` and you're only making that one app. Your `contents.txt` file will look like this...
 ```
 {
@@ -70,5 +71,21 @@ if (!file_exists('../Testing')) {
 ?>
 ```
 Now, in the Store channel, enter your repository and click `Testing/install.php`.
+#### New (Coming Soon!)
+Follow the same directions as the Classic one, however there will be some upcoming changes! Let's say you have an app called `Testing` and your `installer.php` file is in a folder named `lol`. Your `contents.txt` would look something like this...
+```
+{
+  "Testing":"lol"
+}
+```
+You will still need your `installer.php`, however instead of declaring the file you're declaring the directory the file is in.
+
+You will also need to create a `info.txt` folder. This contains information about your app and when your user clicks on your app to try to install it they'll see this. The `info.txt` must contain HTML code. Here's an example...
+```
+<h3>This is Testing.</h3>
+<h4>A cool app by @chillsocial on Github!</h4>
+<p>Here's some info about my app. Blah blah blah</p>
+/// You can add any HTML to this file, basically.
+```
 ### Locally (Private, Testing)
 In the `C:\xampp\htdocs\apps` folder, make a new folder with your apps name. Inside that folder should be the `preload.txt`, startup file and all other files you want for your app.
