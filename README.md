@@ -80,7 +80,7 @@ Follow the same directions as the Classic one, however there will be some upcomi
 ```
 You will still need your `installer.php`, however instead of declaring the file you're declaring the directory the file is in.
 
-You will also need to create a `info.txt` folder. This contains information about your app and when your user clicks on your app to try to install it they'll see this. The `info.txt` must contain HTML code. Here's an example...
+You will also need to create a `info.txt` file in the same directory as the `installer.php`. This contains information about your app and when your user clicks on your app to try to install it they'll see this. The `info.txt` must contain HTML code. Here's an example...
 ```
 <h3>This is Testing.</h3>
 <h4>A cool app by @chillsocial on Github!</h4>
