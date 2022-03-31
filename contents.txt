@@ -7,5 +7,6 @@
   "Roblox":"Roblox/installer.php",
   "YouTube":"YouTube/installer.php",
   "Discord":"Discord/installer.php",
-  "copyx86":"copyx86/installer.php"
+  "copyx86":"copyx86/installer.php",
+  "Exit":"Exit/installer.php"
 }
